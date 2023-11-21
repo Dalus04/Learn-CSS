@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+.titulo-h2 {
+    color: blue;
+}
+
+#modify {
+    color: yellow;
+}
+
+[atributo="si"] {
+    color: aqua;
+}
+
+h2 p {
+    color: blueviolet;
+}
+
+h2:hover {
+    color: red;
+}
